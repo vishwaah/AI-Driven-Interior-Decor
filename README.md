@@ -32,8 +32,8 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/decorcraft.git
-cd decorcraft
+git clone https://github.com/vishwaah/AI-Driven-Interior-Decor.git
+cd AI-Driven-Interior-Decor
 ```
 
 ### 2. Install dependencies
