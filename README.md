@@ -1,4 +1,8 @@
-# 🧠 DecorCraft – AI-Driven Interior Decor Generator
+<h1 align="left">
+  <img src="public/DC_icon.png" alt="DecorCraft Logo" width="30" /> DecoCraft – AI-Driven Interior Decor Generator
+</h1>
+
+ 
 
 **DecorCraft** is a web-based application that leverages Generative AI to help users visualize customized interior designs. By uploading a photo of a room and selecting a preferred style, users can generate culturally aware and aesthetically refined design layouts using Stable Diffusion models fine-tuned with LoRA and enhanced via ControlNet.
 
